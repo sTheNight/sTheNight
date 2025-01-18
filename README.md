@@ -4,11 +4,11 @@
 
 # 💻 设备
 
-<img src="https://img.shields.io/badge/Intel® Core™ 12600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-Geforce RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/Core i5 12600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/Ryzen 7 6800H-ED1C24?style=for-the-badge&logo=AMD&logoColor=white"> <img src="https://img.shields.io/badge/Geforce RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
 # 👩‍💻 环境
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Debian(WSL)-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux Mint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
 ---
