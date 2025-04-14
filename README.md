@@ -4,6 +4,6 @@
 
 成分列表（都沾一点）：
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,mysql,rider,visualstudio,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,mysql,rider,visualstudio,git&perline=5)](https://skillicons.dev)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sTheNight)
