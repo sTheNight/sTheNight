@@ -1,4 +1,11 @@
-你说得对，但前面忘记了，后面忘记了，中间也忘记了。
+## 成分列表
+
+前端三件套，SCSS，TypeScript，Vue，C#，Avalonia  
+会一点点
+
+## 在学
+
+Kotlin，Jetpack Compose
 
 ---
 
