@@ -1,6 +1,6 @@
 ## 成分列表
 
-前端三件套，SCSS，TypeScript，Vue，C#，Avalonia，ASP.NET Core  
+Vue，Avalonia，ASP.NET Core  
 会一点点
 
 ## 在学
