@@ -1,3 +1,7 @@
+## 关于我
+
+也许不怎么活跃
+
 ## 成分列表
 
 Vue，Avalonia，ASP.NET Core  
