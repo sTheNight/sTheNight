@@ -4,12 +4,9 @@
 
 ## 成分列表
 
-Vue，Avalonia，ASP.NET Core  
-会一点点
+前后端和安卓（？）大概啥都会一点点（仅限于一点点了）
 
-## 在学
-
-Kotlin，Jetpack Compose
+也许喜欢看百合但应该不是二次元
 
 ---
 
